@@ -190,7 +190,11 @@
 
 .tipo-dragao {
     background-color: #c29791;
-=======
+}
+
+.tipo-psychico {
+    background-color: #FF6FA9;
+}
 .cartao-pokemon {
     display: none;
     background-color: aqua;
