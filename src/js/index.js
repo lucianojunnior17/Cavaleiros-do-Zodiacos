@@ -6,6 +6,7 @@ listaSelecaoPokemons.forEach(pokemon => {
     //vamos precisar trabalhar com um evento de clique feito pelo usuário na listagem de pokémons
 
     pokemon.addEventListener('click', () => {
+
         //remover a classe aberto só do cartão que está aberto
         const cartaoPokemonAberto = document.querySelector('.aberto')        
         cartaoPokemonAberto.classList.remove('aberto')
