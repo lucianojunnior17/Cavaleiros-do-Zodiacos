@@ -28,12 +28,24 @@
     align-items: center;
 }
 
+.fundo-img {
+    position: relative;
+    width: 350px;
+    height: 350px;
+}
+.fundo-img img {
+    position: relative;
+    max-height: 100%;
+}
+
 .cartao-pokemon .cartao-imagem {
+    position: absolute;
     width: 350px;
     height: 350px;
 }
 
 .cartao-pokemon img {
+    position: absolute;
     max-height: 100%;
 }
 
