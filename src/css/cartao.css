@@ -2,6 +2,8 @@
     display: none;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
+    align-items: center;
+    justify-content: center;
 }
 
 .cartao-pokemon .cartao-topo {
@@ -30,6 +32,8 @@
 
 .fundo-img {
     position: relative;
+    justify-content: center;
+    align-items: center;
     width: 350px;
     height: 350px;
 }
