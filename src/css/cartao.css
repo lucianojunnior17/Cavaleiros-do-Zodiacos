@@ -8,6 +8,11 @@
 
 .cartao-pokemon .cartao-topo {
     padding: 30px 40px 0;
+    background-image: url(https://media.discordapp.net/attachments/821364094878613528/952272777715523594/pokebola.png);
+    background-repeat: no-repeat;
+    background-size: 380px;
+    background-position-y: bottom 1px;
+    background-position-x: center;
 }
 
 .cartao-pokemon .nome {
@@ -30,26 +35,18 @@
     align-items: center;
 }
 
-.fundo-img {
-    position: relative;
-    justify-content: center;
-    align-items: center;
-    width: 350px;
-    height: 350px;
-}
-.fundo-img img {
-    position: relative;
-    max-height: 100%;
-}
-
 .cartao-pokemon .cartao-imagem {
-    position: absolute;
     width: 350px;
     height: 350px;
+    display: inline-block;
+    margin: 0 0.5rem;
+    animation: fadeInDown;
+    /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+    /* don't forget to set a duration! */
 }
 
 .cartao-pokemon img {
-    position: absolute;
     max-height: 100%;
 }
 
@@ -63,19 +60,20 @@
     border-bottom-right-radius: 8px;
 }
 
-
 .cartao-pokemon .cartao-informacoes h3 {
     font-size: 20px;
     margin-bottom: 15px;
     border-bottom: 1px solid #6B727A;
 }
 
-.cartao-pokemon .cartao-informacoes .status, .cartao-pokemon .cartao-informacoes .habilidades {
+.cartao-pokemon .cartao-informacoes .status,
+.cartao-pokemon .cartao-informacoes .habilidades {
     padding: 0 10px;
     width: 180px;
 }
 
-.cartao-pokemon .cartao-informacoes .habilidades ul li, .cartao-pokemon .cartao-informacoes .status ul li {
+.cartao-pokemon .cartao-informacoes .habilidades ul li,
+.cartao-pokemon .cartao-informacoes .status ul li {
     border-bottom: 1px solid #C3C4C5;
     padding: 0 0 5px;
     margin-bottom: 5px;
