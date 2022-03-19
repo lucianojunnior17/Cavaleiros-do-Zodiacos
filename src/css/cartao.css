@@ -38,7 +38,6 @@
             .cartao-pokemon .cartao-imagem {
                 width: 350px;
                 height: 350px;
-                display: inline-block;
                 margin: 0 0.5rem;
                 animation: fadeInDown;
                 /* referring directly to the animation's @keyframe declaration */
