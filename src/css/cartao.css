@@ -8,7 +8,6 @@
             
             .cartao-pokemon .cartao-topo {
                 padding: 30px 40px 0;
-                background-image: url(https://media.discordapp.net/attachments/821364094878613528/952272777715523594/pokebola.png);
                 background-repeat: no-repeat;
                 background-size: 380px;
                 background-position-y: bottom 1px;
@@ -85,6 +84,10 @@
             
             .tipo-bronze {
                 background-color: #f8d404;
+                background-image: url(/src/imagens/escudo.jpg);
+                background-size: 350px;
+                background-repeat: no-repeat;
+                background-position: center;
             }
             
             .tipo-eletrico {
