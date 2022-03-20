@@ -7,7 +7,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/src/imagens/fundo.jpg);
+    background-image: url(src/imagens/fundo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
