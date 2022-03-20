@@ -82,34 +82,13 @@
                 display: block;
             }
             
-            .tipo-bronze {
+            .tipo-ouro {
                 background-color: #f8d404;
-                background-image: url(/src/imagens/escudo.jpg);
-                background-size: 350px;
+            }
+            
+            .tipo-bronze {
+                background-color: #cd7f32;
+                background-image: url(#);
+                background-size: 300px;
                 background-repeat: no-repeat;
-                background-position: center;
-            }
-            
-            .tipo-eletrico {
-                background-color: #FCC719;
-            }
-            
-            .tipo-agua {
-                background-color: #76BEFE;
-            }
-            
-            .tipo-grama {
-                background-color: #49D0B0;
-            }
-            
-            .tipo-trevas {
-                background-color: #BA68C8;
-            }
-            
-            .tipo-dragao {
-                background-color: #C29791;
-            }
-            
-            .tipo-psyco {
-                background-color: #ff6fa9;
             }
