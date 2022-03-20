@@ -7,7 +7,9 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #DADFE8;
+    background-image: url(/src/imagens/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .pokedex {
