@@ -6,7 +6,7 @@
 </h1>
 </div>
 <div>
-<img src="src/gif/pokedex.gif">
+<img src="#">
 </div>
 
 
