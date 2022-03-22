@@ -7,7 +7,7 @@
     }
     
     .cartao-pokemon .cartao-topo {
-        padding: 30px 40px 0;
+        padding: 10px 40px 0;
         background-repeat: no-repeat;
         background-size: 380px;
         background-position-y: bottom 1px;
@@ -17,7 +17,7 @@
     .cartao-pokemon .nome {
         margin-bottom: 5px;
     }
-    
+        
     .cartao-pokemon .cartao-pokemon .tipo {
         font-size: 12px;
         background-color: #FFFFFF;
@@ -46,6 +46,7 @@
     
     .cartao-pokemon img {
         max-height: 100%;
+        margin-left:40px;
     }
     
     .cartao-pokemon .cartao-informacoes {
