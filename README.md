@@ -7,6 +7,20 @@
 </div>
 <div>
 <img src="#">
+
+ste projeto foi feito com base no evento MapaDev Week do @devemdobro. O objetivo do evento era criarmos nosso primeiro projeto web . O meu projeto não ficou igual ao do evento, pois queria deixar com minha personalidade e aprender coisas novas.
+
+👀 Visualize o projeto aqui
+Link Projeto
+
+🚀 Tecnologias utilizadas
+
+✔️ HTML5
+
+✔️ CSS3
+
+✔️ JavaScript
+
 </div>
 
 
