@@ -89,8 +89,9 @@
     
     .tipo-bronze {
         background-color: #cd7f32;
-        background-image: url(#);
-        background-size: 300px;
+        background-image: url(https://i.pinimg.com/originals/7a/9c/47/7a9c4710dc00f24636d89b8883b6f854.gif);
+        background-size: 600px 600px;
+        opacity: 0,9;
         background-repeat: no-repeat;
     }
 
