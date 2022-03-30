@@ -6,12 +6,12 @@
 </h1>
 </div>
 <div>
-<img src="#">
-
+<p align="justify">
 Este projeto foi feito com base no evento MapaDev Week do @devemdobro. O objetivo do evento era criarmos nosso primeiro projeto web . O meu projeto não ficou igual ao do evento, pois queria deixar com minha personalidade e aprender coisas novas.
 
-👀 Visualize o projeto aqui
-https://lucianojunnior17.github.io/Cavaleiros-do-Zodiacos/
+<p align="center"> 👀 Visualize o projeto aqui <br>
+    [Link Projeto](https://lucianojunnior17.github.io/Cavaleiros-do-Zodiacos/)
+ </p>
 
 🚀 Tecnologias utilizadas
 
@@ -20,6 +20,7 @@ https://lucianojunnior17.github.io/Cavaleiros-do-Zodiacos/
 ✔️ CSS3
 
 ✔️ JavaScript
+    
 
 </div>
 
