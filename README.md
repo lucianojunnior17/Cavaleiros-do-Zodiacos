@@ -8,10 +8,10 @@
 <div>
 <img src="#">
 
-ste projeto foi feito com base no evento MapaDev Week do @devemdobro. O objetivo do evento era criarmos nosso primeiro projeto web . O meu projeto não ficou igual ao do evento, pois queria deixar com minha personalidade e aprender coisas novas.
+Este projeto foi feito com base no evento MapaDev Week do @devemdobro. O objetivo do evento era criarmos nosso primeiro projeto web . O meu projeto não ficou igual ao do evento, pois queria deixar com minha personalidade e aprender coisas novas.
 
 👀 Visualize o projeto aqui
-Link Projeto
+https://lucianojunnior17.github.io/Cavaleiros-do-Zodiacos/
 
 🚀 Tecnologias utilizadas
 
